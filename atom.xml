@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-24T13:38:40.000Z</updated>
+  <updated>2016-02-24T13:42:59.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,31 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2016/02/24/test_markdown/"/>
-    <id>http://yoursite.com/2016/02/24/test_markdown/</id>
-    <published>2016-02-24T13:38:40.000Z</published>
-    <updated>2016-02-24T13:38:40.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一遍文章</title>
+    <title>hexo-常用命令</title>
     <link href="http://yoursite.com/2016/02/24/hexo-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>http://yoursite.com/2016/02/24/hexo-常用命令/</id>
     <published>2016-02-24T13:21:46.000Z</published>
-    <updated>2016-02-24T13:34:16.000Z</updated>
+    <updated>2016-02-24T13:42:59.000Z</updated>
     
     <content type="html">&lt;p&gt;hexo new “postName” #新建文章&lt;br&gt;hexo new page “pageName” #新建页面&lt;/p&gt;
 &lt;p&gt;#执行脚本部署，省略下面命令&lt;br&gt;hexo generate #生成静态页面至public目录&lt;br&gt;hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）&lt;br&gt;hexo deploy #将.deploy目录部署到GitHub&lt;/p&gt;
@@ -50,6 +30,26 @@
     
       &lt;p&gt;hexo new “postName” #新建文章&lt;br&gt;hexo new page “pageName” #新建页面&lt;/p&gt;
 &lt;p&gt;#执行脚本部署，省略下面命令&lt;br&gt;hexo generate #生成静态页面至public目录&lt;br&gt;hexo server #开启预览访
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-测试markdown语法</title>
+    <link href="http://yoursite.com/2016/02/24/test_markdown/"/>
+    <id>http://yoursite.com/2016/02/24/test_markdown/</id>
+    <published>2016-02-24T13:21:46.000Z</published>
+    <updated>2016-02-24T13:44:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
     
     </summary>
     
