@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-02-28T16:07:10.000Z</updated>
+  <updated>2016-02-28T16:09:17.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,22 +16,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>一条面试题：用一段shell来监控各节点文件是否一致</title>
     <link href="http://yoursite.com/2016/02/29/%E7%94%A8%E4%B8%80%E6%AE%B5shell%E6%9D%A5%E7%9B%91%E6%8E%A7%E5%90%84%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6%E6%98%AF%E5%90%A6%E4%B8%80%E8%87%B4--%E9%9D%A2%E8%AF%95/"/>
     <id>http://yoursite.com/2016/02/29/用一段shell来监控各节点文件是否一致--面试/</id>
-    <published>2016-02-28T16:07:10.000Z</published>
-    <updated>2016-02-28T16:07:10.000Z</updated>
+    <published>2016-02-28T16:09:17.000Z</published>
+    <updated>2016-02-28T16:09:17.000Z</updated>
     
-    <content type="html">&lt;p&gt;title: 一条面试题：用一段shell来监控各节点文件是否一致&lt;br&gt;date:&lt;br&gt;categories: 面试题&lt;br&gt;tags: 面试题,shell&lt;br&gt;description: shell、dig、md5sum对比文件&lt;/p&gt;
-</content>
+    <content type="html"></content>
     
     <summary type="html">
     
-      &lt;p&gt;title: 一条面试题：用一段shell来监控各节点文件是否一致&lt;br&gt;date:&lt;br&gt;categories: 面试题&lt;br&gt;tags: 面试题,shell&lt;br&gt;description: shell、dig、md5sum对比文件&lt;/p&gt;
-
+      shell、dig、md5sum对比文件
     
     </summary>
     
+      <category term="面试题" scheme="http://yoursite.com/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+      <category term="面试题,shell" scheme="http://yoursite.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98-shell/"/>
     
   </entry>
   
