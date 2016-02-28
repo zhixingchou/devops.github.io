@@ -85,4 +85,28 @@
     
   </entry>
   
+  <entry>
+    <title>postName</title>
+    <link href="http://yoursite.com/2015/04/25/test-%E7%9B%AE%E5%BD%95/"/>
+    <id>http://yoursite.com/2015/04/25/test-目录/</id>
+    <published>2015-04-25T07:30:16.000Z</published>
+    <updated>2016-02-28T15:30:10.000Z</updated>
+    
+    <content type="html">&lt;!--这里开始使用markdown格式输入你的正文。--&gt;
+&lt;p&gt;……&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      测试ds
+    
+    </summary>
+    
+      <category term="测试目录" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
 </feed>
