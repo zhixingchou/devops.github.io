@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/02/24/test_markdown/</loc>
+    
+    <lastmod>2016-02-28T16:12:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/02/29/%E7%94%A8%E4%B8%80%E6%AE%B5shell%E6%9D%A5%E7%9B%91%E6%8E%A7%E5%90%84%E8%8A%82%E7%82%B9%E6%96%87%E4%BB%B6%E6%98%AF%E5%90%A6%E4%B8%80%E8%87%B4--%E9%9D%A2%E8%AF%95/</loc>
     
-    <lastmod>2016-02-28T16:09:17.000Z</lastmod>
+    <lastmod>2016-02-28T16:11:25.000Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://yoursite.com/2016/02/24/hexo-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2016-02-28T15:35:51.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/02/24/test_markdown/</loc>
-    
-    <lastmod>2016-02-28T15:35:39.000Z</lastmod>
     
   </url>
   
