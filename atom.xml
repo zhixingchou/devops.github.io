@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-13T12:51:03.000Z</updated>
+  <updated>2016-03-13T13:18:19.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux中两种守护进程stand alone和xinetd</title>
+    <link href="http://yoursite.com/2016/03/13/Linux%E4%B8%AD%E4%B8%A4%E7%A7%8D%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8Bstand%20alone%E5%92%8Cxinetd/"/>
+    <id>http://yoursite.com/2016/03/13/Linux中两种守护进程stand alone和xinetd/</id>
+    <published>2016-03-13T13:59:03.000Z</published>
+    <updated>2016-03-13T13:18:19.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Linux中的两种守护进程stand alone和xinetd&lt;br&gt;一般使用stand alone /etc/init.d/&lt;/p&gt;
+&lt;p&gt;非常少用xinetd /etc/xinetd.d/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cnblogs.com/MYSQLZOUQI/p/5167829.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.cnblogs.com/MYSQLZOUQI/p/5167829.html&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Linux中的两种守护进程stand alone和xinetd&lt;br&gt;一般使用stand alone /etc/init.d/&lt;/p&gt;
+&lt;p&gt;非常少用xinetd /etc/xinetd.d/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cnblogs.com/M
+    
+    </summary>
+    
+      <category term="Linux基础" scheme="http://yoursite.com/categories/Linux%E5%9F%BA%E7%A1%80/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>使用iptables管理docker容器做端口映射网络</title>
