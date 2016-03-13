@@ -5,11 +5,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-13T15:22:01.000Z</updated>
+  <updated>2016-03-13T15:44:05.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhixingchou</name>
     
   </author>
   
@@ -19,12 +19,13 @@
     <title>Linux中两种守护进程stand alone和xinetd[centos7-Systemd centos&lt;7-systemV]</title>
     <link href="http://yoursite.com/2016/03/13/Linux%E4%B8%AD%E4%B8%A4%E7%A7%8D%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8Bstand%20alone%E5%92%8Cxinetd/"/>
     <id>http://yoursite.com/2016/03/13/Linux中两种守护进程stand alone和xinetd/</id>
-    <published>2016-03-13T15:22:01.000Z</published>
-    <updated>2016-03-13T15:22:01.000Z</updated>
+    <published>2016-03-13T15:44:05.000Z</published>
+    <updated>2016-03-13T15:44:05.000Z</updated>
     
     <content type="html">&lt;p&gt;Linux中的两种守护进程stand alone和xinetd&lt;br&gt;一般使用stand alone /etc/init.d/&lt;/p&gt;
 &lt;p&gt;非常少用xinetd /etc/xinetd.d/&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.cnblogs.com/MYSQLZOUQI/p/5167829.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.cnblogs.com/MYSQLZOUQI/p/5167829.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;centos7使用Systemd高效管理各种进程.&lt;/p&gt;
 </content>
     
     <summary type="html">
